@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/reponame",
   siteMetadata: {
     title: "Altmeta Pixel Demo",
     siteUrl: "http://localhost",
